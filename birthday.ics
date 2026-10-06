@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rhythm Birthday//Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:rhythm-8th-20261101@birthday-invite
+DTSTAMP:20261006T013400Z
+DTSTART:20261101T180000Z
+DTEND:20261101T200000Z
+SUMMARY:Rhythm’s 8th Birthday
+LOCATION:Urban Air Adventure Park\, 2201 West Southlake Blvd\, Southlake\,
+  TX 76092
+DESCRIPTION:Hosted by Harshika and Gaurav. Fun\, jumps and adventure!
+END:VEVENT
+END:VCALENDAR
